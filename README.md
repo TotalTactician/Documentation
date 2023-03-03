@@ -4,7 +4,7 @@ this repository has all documents made for this project
 ## Code convention
 //todo :)
 
-## Definition of done
+## Definition of Done
 1. The code must be compliant with the [coding conventions](https://github.com/TotalTactician/Documentation/blob/main/README.md#code-convention).
 2. The code must be tested.
    - All tests succeed.
