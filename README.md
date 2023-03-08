@@ -3,11 +3,11 @@ this repository has all documents made for this project
 
 ## Code convention
 Case Usage:
-   -camelCase for variables and methods.
-   -PascalCase for types and classes.
-   -UPPER_CASE_SNAKE_CASE for constants.
-When possible open and close each statement.
-If a variable is given as parameter use an _.
+- camelCase for variables and methods.
+- PascalCase for types and classes.
+- UPPER_CASE_SNAKE_CASE for constants.
+- When possible open and close each statement.
+- If a variable is given as parameter use an _camelCase.
 
 
 ## Definition of Done
