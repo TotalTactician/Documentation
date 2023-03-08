@@ -8,5 +8,5 @@
 ### Svelte JS
 | advantages    | disadvantages |
 | ------------- | ------------- |
-| we can buly Stijn  | Content Cell  |
+| we can bully Stijn  | Content Cell  |
 | is funny      | Content Cell  |
