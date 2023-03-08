@@ -4,9 +4,9 @@
 | advantages    | disadvantages |
 | ------------- | ------------- |
 | Content Cell  | Content Cell  |
-| is funny      | Content Cell  |
+| Content Cell  | Content Cell  |
 ### Svelte JS
 | advantages    | disadvantages |
 | ------------- | ------------- |
-| Content Cell  | Content Cell  |
+| we can buly Stijn  | Content Cell  |
 | is funny      | Content Cell  |
