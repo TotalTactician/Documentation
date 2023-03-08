@@ -6,8 +6,9 @@ Case Usage:
 - camelCase for variables and methods.
 - PascalCase for types and classes.
 - UPPER_CASE_SNAKE_CASE for constants.
-- When possible open and close each statement.
-- If a variable is given as parameter use an _camelCase.
+- If a variable is given as parameter use _camelCase.
+
+When possible open and close each statement.
 
 
 ## Definition of Done
