@@ -7,7 +7,7 @@ Case Usage:
    -PascalCase for types and classes.
    -UPPER_CASE_SNAKE_CASE for constants.
 When possible open and close each statement.
-If a variable is only used and created in a single method use an _.
+If a variable is given as parameter use an _.
 
 
 ## Definition of Done
