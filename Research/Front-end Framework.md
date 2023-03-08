@@ -1,7 +1,12 @@
 # Research Front-end framework
 
-
-| Framework     | advantages    | disadvantages |
-| ------------- | ------------- | ------------- |
-| VUE           | Content Cell  | Content Cell  |
-| Svelte JS     | is funny  | Content Cell  |
+### VUE
+| advantages    | disadvantages |
+| ------------- | ------------- |
+| Content Cell  | Content Cell  |
+| is funny      | Content Cell  |
+### Svelte JS
+| advantages    | disadvantages |
+| ------------- | ------------- |
+| Content Cell  | Content Cell  |
+| is funny      | Content Cell  |
