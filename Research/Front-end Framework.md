@@ -3,7 +3,7 @@
 ### VUE
 | advantages    | disadvantages |
 | ------------- | ------------- |
-| Content Cell  | Content Cell  |
+| Content Cell  | Stijn likes it  |
 | Content Cell  | Content Cell  |
 ### Svelte JS
 | advantages    | disadvantages |
