@@ -3,8 +3,8 @@
 ### VUE
 | advantages    | disadvantages |
 | ------------- | ------------- |
-| Content Cell  | Stijn likes it  |
-| Content Cell  | Content Cell  |
+| Larger Ecosystem  | Stijn likes it  |
+| Content Cell  | Most functionality lies in libraries |
 
 ### Svelte JS
 
@@ -19,6 +19,6 @@ Among the most crucial arguments in Svelte.js vs. React vs. Vue is usage. The mo
 
 | advantages    | disadvantages |
 | ------------- | ------------- |
-| we can bully Stijn  | Content Cell  |
+| we can bully Stijn  | Smaller Ecosystem  |
 | is funny      | Content Cell  |
-||
+|Svelte is only needed as a Dev Dependency||
