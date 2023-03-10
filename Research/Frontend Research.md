@@ -4,6 +4,10 @@
 
 The difference between Svelte and Vue lies also in versatility. Vue is pretty much a universal framework that can be used for any project of yours.
 The most suitable apps developed in this framework are single-page apps, MVPs, progressive web apps, and dynamic landing pages. In React, Svelte, and Vue comparison only Svelte is somewhat specific in its functionality, React and Vue can do pretty much everything.
+
+Not only is it a popular main framework, a lot of the popular web apps use this framework on an occasional basis. Google used it for their careers page, Apple for SwiftUI tutorial, Nintendo when developing their loyalty page. Upwork, Nestle, Trivago, Nespresso – the list goes on and on, which stresses the multipurposeness of this framework.
+
+On the issue of Svelte.js vs. Vue, developers are currently choosing Vue. The main difference between Svelte and Vue, in this case, is age. By the way, if you want to build an app on Vue.js ProCoders can help you with that! You can hire our Vue.js developers and recreate the success of these apps.
 [Source: procoders.tech](https://procoders.tech/blog/svelte-vs-vue-frameworks-comparison/)
 
 | advantages    | disadvantages |
