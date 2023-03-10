@@ -8,7 +8,7 @@ The most suitable apps developed in this framework are single-page apps, MVPs, p
 
 | advantages    | disadvantages |
 | ------------- | ------------- |
-| Larger Ecosystem  | Stijn likes it  |
+| Larger Ecosystem  |   |
 | versatile         | Most functionality lies in libraries |
 
 ### Svelte JS
@@ -29,15 +29,19 @@ Consider interoperability. Want to npm install cool-calendar-widget and use it i
 
 | advantages    | disadvantages |
 | ------------- | ------------- |
-| We can bully Stijn  | Smaller Ecosystem  |
-| Is funny            | Plain Javascript   |
-| Svelte is only needed as a Dev Dependency| not great for big apps |
-| Can use Typescript but its not made for it||
+| Svelte is only needed as a Dev Dependency  | Smaller Ecosystem  |
+| Can use Typescript but its not made for it | Plain Javascript   |
+| | not great for big apps |
 
-# Svelte and Vue Ability to Build Complex Apps
+## Svelte and Vue Ability to Build Complex Apps
 ### Svelte
 If you have an idea for a large complex application, Svelte is not the best choice for the front end. Despite showing great results in a Svelte vs. Vue performance analysis, this framework is still young and lacks support, backing, and community. With no styles and kits, the amount of work you have to do by yourself will probably soon outweigh the positives that come with Svelte.
 
 ### Vue
 With major backing from Google and relatively strong community support, building a complex app using Vue seems easier. Not mentioning the Vuex, which greatly facilitates the task. The difference between Svelte and Vue – having the ability to develop larger and more complicated apps – might be a make or break for someone who plans to quickly scale up their business and add more functions.
 [Source: procoders.tech](https://procoders.tech/blog/svelte-vs-vue-frameworks-comparison/)
+
+# final thougths
+We are going to use Svelte because its a new innovative framework that specializes in high performance and reactivity, something which is very important for our application. The syntax also seems more readable. 
+
+The main downside is that there is a smaller ecosystem compared to Vue which makes it more difficult to find help if we have any issues. Furthermore, Svelte is mostly used for smaller apps but we want to try it for our selves and take a risk.
