@@ -10,7 +10,7 @@ this repository has all documents made for this project
 
 2. When possible open and close each statement.
 3. We also use defensive programming, so first validate the parameters before the main code like so:
-```
+```cs
 Func(int _num)
 {
    if (_num == NULL)
