@@ -32,3 +32,5 @@ Func(int _num)
 3. The code must be peer reviewed.
 4. The code must be checked into git.
 5. Acceptance criteria must be fulfilled.
+6. Code must be documented.
+7. Pull requests must be reviewed.
