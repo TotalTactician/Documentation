@@ -1,7 +1,6 @@
 # Learning outcomes
 shamelessly copied from [Erik Van de Laar](https://github.com/tick-github/tick-documentation/blob/main/dict/learning-outcomes.md) :)
 ## Table of Contents
-- [Learning outcomes](#learning-outcomes)
   - [Table of Contents](#table-of-contents)
   - [Web Application](#web-application)
   - [Software Quality](#software-quality)
