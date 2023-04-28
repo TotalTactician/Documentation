@@ -12,7 +12,7 @@
 ### Longed for:
   - Chaos dwarfs DLC :)
   - Writing comments under Jira taskes and using the issue numbers in commits
-### Action points for the nest sprint:
+### Action points for the next sprint:
   - Beter research/refinement before adding tasks to the sprint
   - Setting up testing frameworks before working on new features
   - Writing comments and adding issue number to commits
