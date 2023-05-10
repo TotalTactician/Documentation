@@ -16,15 +16,8 @@ I did this project with [Sylvester Snijders](https://github.com/AsterosTheGreat)
 For a complete list of the learning outcomes and their explanation as of , see [here](https://github.com/TotalTactician/Documentation/blob/main/learning-outcomes.md).
 
 ## proof
-<table>
-  <tr>
-    <th>Learing uitcome</th>
-    <th>Type</th>
-    <th>Link to proof</th>
-  </tr>
-  <tr>
-    <td>[CI/CD](https://github.com/TotalTactician/Documentation/blob/main/learning-outcomes.md#cicd)</td>
-    <td>Proof of Concept</td>
-    <td>[](https://github.com/TotalTactician/Documentation/blob/main/Proof/Joey/deploying%20to%20Dockerhub.md)</td>
-  </tr>
-</table>
+| Learing uitcome                                                                           | Proof                                                                                        | Description                                                           |
+|-------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------|-----------------------------------------------------------------------|
+| [CI](https://github.com/TotalTactician/Documentation/blob/main/learning-outcomes.md#cicd) | [workflow](https://github.com/TotalTactician/TOT_RaceManagement/actions/workflows/DevCI.yml) | the workflow for running test on merge of feature to development      |
+| [CD](https://github.com/TotalTactician/Documentation/blob/main/learning-outcomes.md#cicd) | [POC](https://github.com/TotalTactician/TOT_DockerPOC)                                       | proof of concept for building and uploading docker image to dockerhub |
+
