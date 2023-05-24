@@ -17,9 +17,11 @@ As software development thrives in an interconnected world, GitHub has emerged a
 
 ## How can we utilize github settings to reduce the amount human errors getting into the codebase?
 
+
 ## How can we utilize testing tools to ensure the quality of our code?
 
 ## How can we utilize workflows to enforce the quality of code added to the codebase?
 
 ## Sources
-- ()[]
+- [ChatGPT](https://chat.openai.com/)
+- [Official Github Code Security Documentation](https://docs.github.com/en/github-ae@latest/code-security)
