@@ -16,7 +16,13 @@ As software development thrives in an interconnected world, GitHub has emerged a
 ## How should we promote security in our Github repositories in order to protect our codebase?
 
 ## How can we utilize github settings to reduce the amount human errors getting into the codebase?
-
+2fa + strong password to prevent breaches
+Restrict branch deletion and force push
+Enable required status Checks (#how-can-we-utilize-workflows-to-enforce-the-quality-of-code-added-to-the-codebase)
+Code review and pull request features
+Branch protection rules
+Vulnerability Alerts and Code Scanning
+Limit visibility
 
 ## How can we utilize testing tools to ensure the quality of our code?
 
@@ -24,4 +30,4 @@ As software development thrives in an interconnected world, GitHub has emerged a
 
 ## Sources
 - [ChatGPT](https://chat.openai.com/)
-- [Official Github Code Security Documentation](https://docs.github.com/en/github-ae@latest/code-security)
+- [Official Github Documentation](https://docs.github.com)
