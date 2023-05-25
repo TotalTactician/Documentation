@@ -28,7 +28,7 @@ By embracing GitHub's branch protection rules, developers can establish strict c
 
 Furthermore, GitHub offers built-in security features like Vulnerability Alerts and Code Scanning. These tools analyze the codebase for known security vulnerabilities and promptly notify repository administrators. By proactively addressing these vulnerabilities, developers can fortify their codebase against potential exploitation and enhance the overall security resilience of their software projects.
 
-To maintain confidentiality and control access to codebases, administrators can fine-tune visibility settings. GitHub allows repositories to be configured as public, private, or restricted to specific collaborators or teams. Limiting visibility ensures that sensitive or proprietary code remains accessible only to authorized individuals, minimizing the risk of unauthorized access or unauthorized distribution of intellectual property.
+To maintain confidentiality and control access to codebases, administrators can fine-tune visibility settings. GitHub allows repositories to be configured as public, private, or restricted to specific collaborators or teams. Limiting visibility ensures that sensitive or proprietary code remains accessible only to authorized individuals, minimizing the risk of unauthorized access or unauthorized distribution of intellectual property. (Sources: ChatGPT and Official Github Documentation)
 
 ## How can we utilize testing tools to ensure the quality of our code?
 
