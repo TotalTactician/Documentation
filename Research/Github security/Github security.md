@@ -13,10 +13,11 @@ By [Sylvester Snijders](https://github.com/AsterosTheGreat) and [Joey Remmers](h
 ## Introduction
 As software development thrives in an interconnected world, GitHub has emerged as a vital platform for hosting and collaborating on code repositories. However, the accessibility and collaborative nature of GitHub also bring security challenges. In this paper we will look into the tools that github provides.
 
+In the rapidly evolving landscape of software development, securing codebases is paramount to protect valuable intellectual property and sensitive data. GitHub, a widely adopted platform for collaborative coding, offers a comprehensive set of features and best practices to bolster codebase security. By combining these measures, developers can establish a robust security framework, ensuring the integrity and confidentiality of their code.
+
 ## How should we promote security in our Github repositories in order to protect our codebase?
 
 ## How can we utilize github settings to reduce the amount human errors getting into the codebase?
-In the rapidly evolving landscape of software development, securing codebases is paramount to protect valuable intellectual property and sensitive data. GitHub, a widely adopted platform for collaborative coding, offers a comprehensive set of features and best practices to bolster codebase security. By combining these measures, developers can establish a robust security framework, ensuring the integrity and confidentiality of their code.
 
 To fortify user authentication, developers should implement Two-Factor Authentication (2FA) and encourage the use of strong, unique passwords. 2FA adds an extra layer of security by requiring users to provide a unique code generated on their mobile devices. This mitigates the risk of unauthorized access and helps prevent breaches. Coupled with strong passwords, this authentication mechanism significantly enhances codebase security.
 
