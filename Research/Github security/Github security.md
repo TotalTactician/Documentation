@@ -4,10 +4,9 @@ By [Sylvester Snijders](https://github.com/AsterosTheGreat) and [Joey Remmers](h
 
 ## Contents
 - [Introduction](#introduction)
-- [How should we promote security in our Github repositories in order to protect our codebase?](#how-should-we-promote-security-in-our-github-repositories-in-order-to-protect-our-codebase)
 - [How can we utilize github settings to reduce the amount human errors getting into the codebase?](#how-can-we-utilize-github-settings-to-reduce-the-amount-human-errors-getting-into-the-codebase)
-- [How can we utilize testing tools to ensure the quality of our code?](#how-can-we-utilize-testing-tools-to-ensure-the-quality-of-our-code)
 - [How can we utilize actions to enforce the quality of code added to the codebase?](#how-can-we-utilize-actions-to-enforce-the-quality-of-code-added-to-the-codebase)
+- [How should we promote security in our Github repositories in order to protect our codebase?](#how-should-we-promote-security-in-our-github-repositories-in-order-to-protect-our-codebase)
 - [Sources](#sources)
 
 ## Introduction
@@ -26,8 +25,6 @@ By embracing GitHub's branch protection rules, developers can establish strict c
 Furthermore, GitHub offers built-in security features like Vulnerability Alerts and Code Scanning. These tools analyze the codebase for known security vulnerabilities and promptly notify repository administrators. By proactively addressing these vulnerabilities, developers can fortify their codebase against potential exploitation and enhance the overall security resilience of their software projects.
 
 To maintain confidentiality and control access to codebases, administrators can fine-tune visibility settings. GitHub allows repositories to be configured as public, private, or restricted to specific collaborators or teams. Limiting visibility ensures that sensitive or proprietary code remains accessible only to authorized individuals, minimizing the risk of unauthorized access or unauthorized distribution of intellectual property. (Sources: ChatGPT and Official Github Documentation)
-
-## How can we utilize testing tools to ensure the quality of our code?
 
 ## How can we utilize actions to enforce the quality of code added to the codebase?
 Maintaining code quality and ensuring error-free deployments are crucial aspects of software development. With github action you can automaticly run build, test and deploy jobs for easy continuous integration and continuous delivery (CI/CD), with this automation you reduce the number of human errors and ensure that no broken code can be merged. You implement this using workflows. A workflow is a configurable automated process that will run one or more jobs. Workflows are defined by a YAML file checked in to your repository and will run when triggered by an event in your repository, or they can be triggered manually, or at a defined schedule. Workflows can be triggered by events such as branch creations, issue updates, or membership changes in your repository. (About workflows - Github Docs)
