@@ -1,9 +1,9 @@
 # CI/CD Implementation
 
 ## Table of Contents
-- [Intro](#Intro)
-- [CI for Node.js](#CI-for-Node.js)
-- [CD for Node.js](#CD-for-Node.js)
+- [Intro](#intro)
+- [CI for Node.js](#ci-for-nodejs)
+- [CD for Node.js](#cd-for-nodejs)
 
 ## Intro
 Whilst I was creating the Frontend I thought it would be helpful to implement some form of automation in my toolkit using github actions. 
