@@ -18,5 +18,8 @@ For a complete list of the learning outcomes and their explanation as of , see [
 ## proof
 | explanation                     | Learing uitcome                                                                           | Proof                                                                                        |                                   
 |---------------------------------|-------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------|
-| A iplementation of CI on a Nodejs backend with deploment to dockerhub | [CI/CD](https://github.com/TotalTactician/Documentation/blob/main/learning-outcomes.md#cicd) | [🔗](https://github.com/TotalTactician/Documentation/blob/main/Proof/Joey/CI-CD.md) |
+|  | [Software Quality](https://github.com/TotalTactician/Documentation/blob/main/learning-outcomes.md#web-application) | [🔗](https://github.com/TotalTactician/Documentation/blob/main/Proof/Joey/Software%20Quality.md) |
+| A implementation of CI on a Nodejs backend with deploment to Dockerhub | [CI/CD](https://github.com/TotalTactician/Documentation/blob/main/learning-outcomes.md#cicd) | [🔗](https://github.com/TotalTactician/Documentation/blob/main/Proof/Joey/CI-CD.md) |
 
+
+<!-- |  | []() | [🔗]() | -->
