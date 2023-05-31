@@ -16,7 +16,7 @@ I did this project with [Sylvester Snijders](https://github.com/AsterosTheGreat)
 For a complete list of the learning outcomes and their explanation as of , see [here](https://github.com/TotalTactician/Documentation/blob/main/learning-outcomes.md).
 
 ## proof
-| Learing uitcome                                                                           | Proof                                                                                        |                                   
-|-------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------|
-| [CI/CD](https://github.com/TotalTactician/Documentation/blob/main/learning-outcomes.md#cicd) | [🔗](https://github.com/TotalTactician/Documentation/blob/main/Proof/Joey/CI-CD.md) |
+| explanation                     | Learing uitcome                                                                           | Proof                                                                                        |                                   
+|---------------------------------|-------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------|
+| A iplementation of CI on a Nodejs backend with deploment to dockerhub | [CI/CD](https://github.com/TotalTactician/Documentation/blob/main/learning-outcomes.md#cicd) | [🔗](https://github.com/TotalTactician/Documentation/blob/main/Proof/Joey/CI-CD.md) |
 
