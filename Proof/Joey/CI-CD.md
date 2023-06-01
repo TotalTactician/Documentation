@@ -6,7 +6,7 @@
 ## Intro
 I have implemented CI on the Race microservice and before implementing CD on here I made a proof of concept for it.
 
-The original ```.yml``` files are located (here)[https://github.com/TotalTactician/TOT_RaceManagement/tree/dev/.github/workflows] for CI and (here)[https://github.com/TotalTactician/TOT_DockerPOC/tree/main/.github/workflows] for CD, though I will provide a snippet down below.
+The original ```.yml``` files are located [here](https://github.com/TotalTactician/TOT_RaceManagement/tree/dev/.github/workflows) for CI and [here](https://github.com/TotalTactician/TOT_DockerPOC/tree/main/.github/workflows) for CD, though I will provide a snippet down below.
 
 ## CI
 With this workflow the code gets tested every time there is a pull request opened to the dev branch and when someone pushes to the dev branch.
