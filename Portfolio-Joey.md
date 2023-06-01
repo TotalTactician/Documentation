@@ -9,7 +9,7 @@ Thanks to [Erik Van de Laar](https://github.com/tick-github/tick-documentation) 
 - [Proof](#proof)
 
 ## Intro
-In this document I will provide you with the learning outcomes at time of writing (April 14th, 2023) for this semester. 
+In this document I will provide you with the learning outcomes at time of writing (June 1, 2023) for this semester. 
 I did this project with [Sylvester Snijders](https://github.com/AsterosTheGreat) So this document has a table with the explanation of said outcomes and all of my work with which I proof I have accomplished them.
 
 ## Learning outcomes
