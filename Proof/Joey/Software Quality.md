@@ -13,7 +13,7 @@ for a small microservice it is more important to test the endpoint than every pi
 
 In the Code below you can see a example of such a test. In this test we specify what we expect, in this case it should return a list of multiple races with 200 status code. Then in the test we first replace the real DAL with the testDAL so we dont use real data (more info below). After that we call the endpoint and first check if it has the right status code, after that we check if it has the right fields. If one of these checks fail, the test will fail.
 ```ts
-beforeEach(() => {
+  beforeEach(() => {
     sandbox = sinon.createSandbox();
     TestDAL = new TestRaceDAL();
   });
@@ -21,7 +21,8 @@ beforeEach(() => {
   afterEach(() => {
     sandbox.restore();
   } )
-
+  
+  // a test  
   it('should return a list of multiple races with 200 status code', async () => {
     sandbox.stub(RaceDAL.prototype, 'getAllRaces').callsFake(async () => TestDAL.getAllRacesReturnList());
     // Make a request to the /GetAll endpoint
