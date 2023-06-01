@@ -38,13 +38,18 @@ For the retrospectives we Used the 4 Ls method where we ask ourselfs these 4 que
 - what dit we Lacked this sprint?
 - what do we long for in the next sprints?
 
+![image](https://github.com/TotalTactician/Documentation/assets/81526735/e103a8bf-5ff3-4a97-85fc-661ec60ba7ba)
+
+
 ### Sprint board
 in the image below you can see 1 of our sprints
+
 ![image](https://github.com/TotalTactician/Documentation/assets/81526735/1c2f2e90-e77d-4bd0-91e8-8c2b9cec633d)
 
 ### User stories
-A example user story below
-![image](https://github.com/TotalTactician/Documentation/assets/81526735/b1f00c9d-8bf0-4f67-860e-fa2bd7f45946)
-the aceptaince criteria for tasks example:
-- the endpoint must be able to take muliple data types
-- the endpoint must return a userfriendly response
+A example user story below, for the acceptance criteria we used the given when then method, with this method you can descripe what this user story needs, what should happen and when that happens.
+
+![image](https://github.com/TotalTactician/Documentation/assets/81526735/6a29a367-db20-4769-acbc-ae161c4056be)
+
+the acceptance criteria for tasks we use a more specific way of describing them:
+![image](https://github.com/TotalTactician/Documentation/assets/81526735/64caa3e4-ae9d-4ab3-8f32-a993bd8a544b)
