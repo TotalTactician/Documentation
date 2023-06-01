@@ -18,8 +18,13 @@ For a complete list of the learning outcomes and their explanation as of , see [
 ## proof
 | explanation                     | Learing uitcome                                                                           | Proof                                                                                        |                                   
 |---------------------------------|-------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------|
+|  | [Web Application ](https://github.com/TotalTactician/Documentation/blob/main/learning-outcomes.md#web-application) | [🔗](https://github.com/TotalTactician/Documentation/blob/main/Proof/Joey/Web%20Application.md) |
 | Unit tests in NodeJS microservice | [Software Quality](https://github.com/TotalTactician/Documentation/blob/main/learning-outcomes.md#web-application) | [🔗](https://github.com/TotalTactician/Documentation/blob/main/Proof/Joey/Software%20Quality.md) |
+|  | [Agile Methodology](https://github.com/TotalTactician/Documentation/blob/main/learning-outcomes.md#agile-methodology) | [🔗](https://github.com/TotalTactician/Documentation/blob/main/Proof/Joey/Agile%20Methodology.md) |
 | A implementation of CI on a Nodejs microservice with deploment to Dockerhub | [CI/CD](https://github.com/TotalTactician/Documentation/blob/main/learning-outcomes.md#cicd) | [🔗](https://github.com/TotalTactician/Documentation/blob/main/Proof/Joey/CI-CD.md) |
-
+|  | [Cultural Differences and Ethics](https://github.com/TotalTactician/Documentation/blob/main/learning-outcomes.md#cultural-differences-and-ethics) | [🔗](https://github.com/TotalTactician/Documentation/blob/main/Proof/Joey/Cultural%20Differences%20and%20Ethics.md) |
+|  | [Requirements and Design](https://github.com/TotalTactician/Documentation/blob/main/learning-outcomes.md#requirements-and-design) | [🔗](https://github.com/TotalTactician/Documentation/blob/main/Proof/Joey/Requirements%20and%20Design.md) |
+|  | [Business Processes](https://github.com/TotalTactician/Documentation/blob/main/learning-outcomes.md#business-processes) | [🔗](https://github.com/TotalTactician/Documentation/blob/main/Proof/Joey/Business%20Processes.md) |
+|  | [Professional](https://github.com/TotalTactician/Documentation/blob/main/learning-outcomes.md#professional) | [🔗](https://github.com/TotalTactician/Documentation/blob/main/Proof/Joey/Professional.md) |
 
 <!-- |  | []() | [🔗]() | -->
