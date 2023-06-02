@@ -18,6 +18,7 @@ Scrum is an Agile framework for managing and delivering complex projects. It pro
 Agile is an overarching philosophy and set of values that prioritize flexibility, collaboration, and customer satisfaction in software development. It encourages adaptive planning, evolutionary development, early delivery, and continuous improvement. Agile methodologies aim to promote teamwork, transparency, and customer-centricity.
 
 When Scrum and Agile are combined, Scrum becomes a manifestation of the Agile principles. Scrum embodies the values of Agile by offering a practical and tangible framework to implement Agile concepts in a project. It provides a structured approach that embraces iterative cycles, emphasizes frequent feedback, and fosters cross-functional collaboration.
+![image](https://github.com/TotalTactician/Documentation/assets/39733159/91d487cb-d595-45b9-88ca-1661bdf23c09)
 
 ## Scrum Agile compared to Waterfall
 
