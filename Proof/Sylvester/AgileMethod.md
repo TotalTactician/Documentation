@@ -38,4 +38,5 @@ At the beginning of the two projects I have worked on this semester we had to de
 ![Jira](https://github.com/TotalTactician/Documentation/assets/39733159/45fd08af-15dd-4c4a-a495-50de6a25e55d)
 
 ## Refferences
--ChatGPT
+- [ChatGPT](https://chat.openai.com/)
+- [Atlassian](https://www.atlassian.com/nl/agile/scrum)
