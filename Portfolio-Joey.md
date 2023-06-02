@@ -13,7 +13,7 @@ In this document I will provide you with the learning outcomes at time of writin
 I did this project with [Sylvester Snijders](https://github.com/AsterosTheGreat) So this document has a table with the explanation of said outcomes and all of my work with which I proof I have accomplished them.
 
 ## Learning outcomes
-For a complete list of the learning outcomes and their explanation as of June 1, 2023, see [here](https://github.com/TotalTactician/Documentation/blob/main/learning-outcomes.md).
+For a complete list of the learning outcomes and their explanation as of June 1 2023, see [here](https://github.com/TotalTactician/Documentation/blob/main/learning-outcomes.md).
 
 ## proof
 | explanation                     | Learing uitcome                                                                           | Proof                                                                                        |                                   
