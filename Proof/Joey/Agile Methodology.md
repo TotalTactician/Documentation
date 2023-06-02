@@ -27,29 +27,36 @@ It promotes self-organization, adaptive planning, and a focus on delivering valu
 
 ## Agile in the group project
 For our group project we decided to use Jira for our backlog and sprint board, we also thought about using trello or Githhub Projects but felt that Jira was more usefull and clearer.
-It is also easy to connect it to Github for tracking a branch associated to a issue.
+It is also easy to connect it to Github for tracking a branch associated to an issue.
 
 For this project we followed sprints of 3 weeks where before each sprint we look at the backlog and decide what to do next, and after every sprint we had a retrospecive.
 
 ### retrospectives
 For the retrospectives we Used the 4 Ls method where we ask ourselfs these 4 questions: 
-- What did we Like this sprint?
+- What did we like this sprint?
 - What did we learn this sprint?
-- what dit we Lacked this sprint?
+- what did we lack this sprint?
 - what do we long for in the next sprints?
 
 ![image](https://github.com/TotalTactician/Documentation/assets/81526735/e103a8bf-5ff3-4a97-85fc-661ec60ba7ba)
 
 
 ### Sprint board
-in the image below you can see 1 of our sprints
+In the image below you can see 1 of our sprints.
 
 ![image](https://github.com/TotalTactician/Documentation/assets/81526735/80fe7cd7-ec48-41d1-b788-e65b3cae1875)
 
 ### User stories
-A example user story below, for the acceptance criteria we used the given when then method, with this method you can descripe what this user story needs, what should happen and when that happens.
+A User story is an informal, general explanation of a software feature written from the perspective of the end user. Its purpose is to articulate how a software feature will provide value to the customer.
+
+In the 4th sprint we also started to use story points, story points are a way of determining how hard a story is. 
+The points do not convey time or complexity and are more arbitrary so it can be tricky to use them. We decided that the points are like chickens: You can easily take on 1 chicken, but 8 chickens will be a lot harder. 
+
+For the acceptance criteria we used the given when then method. With this method you can descripe what this user story needs, what should happen and when that happens.
 
 ![image](https://github.com/TotalTactician/Documentation/assets/81526735/5c329337-f6f1-4fd0-b77a-7358eda0e600)
 
-the acceptance criteria for tasks we use a more specific way of describing them:
+
+
+For tasks we use a more specific way to describe the acceptance criteria.
 ![image](https://github.com/TotalTactician/Documentation/assets/81526735/7ee56ff7-e417-4632-857b-6142b5e76aca)
