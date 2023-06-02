@@ -16,7 +16,7 @@ I did this project with [Sylvester Snijders](https://github.com/AsterosTheGreat)
 For a complete list of the learning outcomes and their explanation as of June 1 2023, see [here](https://github.com/TotalTactician/Documentation/blob/main/learning-outcomes.md).
 
 ## proof
-| explanation                     | Learing uitcome                                                                           | Proof                                                                                        |                                   
+| explanation                     | Learing outcome                                                                           | Proof                                                                                        |                                   
 |---------------------------------|-------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------|
 | W.I.P | [Web Application ](https://github.com/TotalTactician/Documentation/blob/main/learning-outcomes.md#web-application) | [🔗](https://github.com/TotalTactician/Documentation/blob/main/Proof/Joey/Web%20Application.md) |
 | Unit tests in NodeJS microservice | [Software Quality](https://github.com/TotalTactician/Documentation/blob/main/learning-outcomes.md#web-application) | [🔗](https://github.com/TotalTactician/Documentation/blob/main/Proof/Joey/Software%20Quality.md) |
