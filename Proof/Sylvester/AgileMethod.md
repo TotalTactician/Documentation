@@ -1,4 +1,4 @@
-# Agile Method Proof
+# Scrum Agile
 
 ## Table of Contents
 - [Intro](#intro)
