@@ -44,12 +44,12 @@ For the retrospectives we Used the 4 Ls method where we ask ourselfs these 4 que
 ### Sprint board
 in the image below you can see 1 of our sprints
 
-![image](https://github.com/TotalTactician/Documentation/assets/81526735/1c2f2e90-e77d-4bd0-91e8-8c2b9cec633d)
+![image](https://github.com/TotalTactician/Documentation/assets/81526735/80fe7cd7-ec48-41d1-b788-e65b3cae1875)
 
 ### User stories
 A example user story below, for the acceptance criteria we used the given when then method, with this method you can descripe what this user story needs, what should happen and when that happens.
 
-![image](https://github.com/TotalTactician/Documentation/assets/81526735/6a29a367-db20-4769-acbc-ae161c4056be)
+![image](https://github.com/TotalTactician/Documentation/assets/81526735/5c329337-f6f1-4fd0-b77a-7358eda0e600)
 
 the acceptance criteria for tasks we use a more specific way of describing them:
-![image](https://github.com/TotalTactician/Documentation/assets/81526735/64caa3e4-ae9d-4ab3-8f32-a993bd8a544b)
+![image](https://github.com/TotalTactician/Documentation/assets/81526735/7ee56ff7-e417-4632-857b-6142b5e76aca)
