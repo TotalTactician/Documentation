@@ -2,6 +2,9 @@
 
 ## Table of Contents
 - [Intro](#intro)
+- [What is Scrum Agile?](#what-is-scrum-agile)
+- [Scrum Agile compared to Waterfall](#scrum-agile-compared-to-waterfall)
+- [Using Scrum Agile in our projects](#using-scrum-agile-in-our-projects)
 
 ## Intro
 Scrum Agile is a widely adopted project management framework that enables teams to effectively tackle complex projects.
@@ -15,6 +18,7 @@ Scrum is an Agile framework for managing and delivering complex projects. It pro
 Agile is an overarching philosophy and set of values that prioritize flexibility, collaboration, and customer satisfaction in software development. It encourages adaptive planning, evolutionary development, early delivery, and continuous improvement. Agile methodologies aim to promote teamwork, transparency, and customer-centricity.
 
 When Scrum and Agile are combined, Scrum becomes a manifestation of the Agile principles. Scrum embodies the values of Agile by offering a practical and tangible framework to implement Agile concepts in a project. It provides a structured approach that embraces iterative cycles, emphasizes frequent feedback, and fosters cross-functional collaboration.
+
 ## Scrum Agile compared to Waterfall
 
 |  | Agile Scrum | Waterfall |
