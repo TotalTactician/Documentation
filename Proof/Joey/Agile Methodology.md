@@ -58,5 +58,5 @@ For the acceptance criteria we used the given when then method. With this method
 
 
 
-For tasks we use a more specific way to describe the acceptance criteria.
+For tasks we use a more specific way to describe the techical criteria.
 ![image](https://github.com/TotalTactician/Documentation/assets/81526735/7ee56ff7-e417-4632-857b-6142b5e76aca)
