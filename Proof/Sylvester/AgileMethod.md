@@ -1,4 +1,4 @@
-# Scrum Agile
+# Scrum Agile Methodology
 
 ## Table of Contents
 - [Intro](#intro)
