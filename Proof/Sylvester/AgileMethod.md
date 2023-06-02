@@ -37,3 +37,5 @@ In summary, the advantages of Scrum Agile over Waterfall include adaptability to
 At the beginning of the two projects I have worked on this semester we had to decide upon which method we wanted to use to work with Scrum Agile. At first we considered using Trello but we quickly let that go due to the lack of features we would need. Next we looked at Github project boards and Jira. I tried the Github project board for a short time on my project, but quickly changed over to Jira after merging my project with Joey. For the group project we decided that Jira was going to be the best course of action due to its ability to integrate with github and its ease of use. 
 ![Jira](https://github.com/TotalTactician/Documentation/assets/39733159/45fd08af-15dd-4c4a-a495-50de6a25e55d)
 
+## Refferences
+-ChatGPT
