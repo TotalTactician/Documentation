@@ -80,6 +80,9 @@ The proficiency rating I will give myself are as they are described on [CANVAS](
         <p>
           -
         </p>
+        <p>
+          In the group project we should have put a bigger focus on testing, we started a little late.
+        </p>
     </td>
   </tr>
 </table>
