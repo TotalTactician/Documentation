@@ -17,3 +17,20 @@ Following that is a table with references to the work I have done to prove I hav
 For a full overview of all the learning outcomes see [here](https://github.com/TotalTactician/Documentation/blob/main/learning-outcomes.md)
 ## Proof
 
+For the Prediciton of the grade:
+0 - Undefined
+1 - Orienting
+2 - Beginning
+3 - Proficient
+5 - Advanced
+
+| Learning Outcome | Proof Document | Personal Prediciton Grade | Reasoning |
+| ---------------- | -------------- | ------------------------- | --------- |
+| Agile Methodology | [Proof](https://github.com/TotalTactician/Documentation/blob/main/Proof/Sylvester/AgileMethod.md) | 3 |  | 
+| Business Processes | [Proof](https://github.com/TotalTactician/Documentation/blob/main/Proof/Sylvester/BusinessProcesses.md) | 3 |  | 
+| CI/CD | [Proof](https://github.com/TotalTactician/Documentation/blob/main/Proof/Sylvester/CI-CD.md) | 3 |  | 
+| Cultural Differences and Ethics | [Proof](https://github.com/TotalTactician/Documentation/blob/main/Proof/Sylvester/Culture%26Ethics.md) | 3 |  | 
+| Professional | [Proof]() | 3 |  | 
+| Requirements and Design | [Proof](https://github.com/TotalTactician/Documentation/blob/main/Proof/Sylvester/Requirements%26Design.md) | 3 |  | 
+| Software Quality | [Proof](https://github.com/TotalTactician/Documentation/blob/main/Proof/Sylvester/SoftwareQuality.md) | 3 |  | 
+| Web Application | [Proof](https://github.com/TotalTactician/Documentation/blob/main/Proof/Sylvester/WebApplication.md) | 3 |  |
