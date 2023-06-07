@@ -13,7 +13,7 @@ On the issue of Svelte.js vs. Vue, developers are currently choosing Vue. The ma
 | advantages    | disadvantages |
 | ------------- | ------------- |
 | Larger Ecosystem  |   |
-| versatile         | Most functionality lies in libraries |
+| Versatile         | Most functionality lies in libraries |
 
 ### Svelte JS
 
