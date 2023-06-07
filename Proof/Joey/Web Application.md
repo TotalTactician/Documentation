@@ -4,7 +4,9 @@
 - [Intro](#intro)
 - [Application structure](#application-structure)
 - [Frontend](#frontend)
--[ORM](#orm)
+- [ORM](#orm)
+- [Communication front - and back end](#communication-front---and-back-end)
+  - [REST versus GraphQL](#rest-versus-graphQL)
 
 ## Intro
 In this document, I will explain the structure of our TotalTactitian application and our choices behind them.
@@ -27,3 +29,13 @@ At first, we tried to use Prisma, an ORM for Node.js but quickly found out that 
 
 This code can be found [here](https://github.com/TotalTactician/TOT_RaceManagement/tree/main/src).
 In DAL is the call to the database and in Models is the schema for the Race model.
+
+## Communication front - and back end
+For Our personal project, we used only REST APIs, but while working on the Data microservice for our group project we got recommended GraphQL.
+
+### REST versus GraphQL
+REST API (Representational State Transfer) is an architectural style that has been widely used for building web services. It follows a client-server model where clients make requests to specific endpoints on the server, and the server responds with the requested data. REST API relies on predefined endpoints and uses HTTP methods like GET, POST, PUT, and DELETE to perform CRUD (Create, Read, Update, Delete) operations on resources.
+
+On the other hand, GraphQL is a query language for APIs and a runtime for executing those queries with existing data. It allows clients to request exactly the data they need in a single request, avoiding over-fetching or under-fetching of data. With GraphQL, clients can define the structure of the response they desire by specifying the fields and relationships they want to retrieve from the server. This flexibility gives clients more control over the data they receive.
+
+One key difference between REST API and GraphQL is how data is fetched. In REST, each endpoint typically returns a fixed set of data, and if the client needs additional information, it may require making multiple requests or receiving more data than necessary. GraphQL, on the other hand, allows clients to specify their data requirements precisely, reducing the amount of data transferred over the network and improving performance.
