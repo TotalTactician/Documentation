@@ -4,7 +4,7 @@
 - [CI](#ci)
 - [CD](#cd)
 ## Intro
-I have implemented CI on the Race microservice and before implementing CD on here I made a proof of concept for it.
+I have implemented CI on the Race microservice and before implementing CD here I made a proof of concept for it.
 
 The original ```.yml``` files are located [here](https://github.com/TotalTactician/TOT_RaceManagement/tree/dev/.github/workflows) for CI and [here](https://github.com/TotalTactician/TOT_DockerPOC/tree/main/.github/workflows) for CD, though I will provide a snippet down below.
 
@@ -37,7 +37,7 @@ jobs:
 ```
 
 ## CD
-With the workflow below when ever we push the dev branch to main a Docker-image gets build from the Docker-file and pushed to a DockerHub repository.
+With the workflow below whenever we push the dev branch to the main a Docker image gets built from the Docker file and pushed to a DockerHub repository.
 ```yaml
 name: Publish Docker Image to Docker Hub
 
@@ -64,8 +64,8 @@ jobs:
       - name: Docker Push
         run: docker push ${{ secrets.DOCKER_USERNAME }}/tot_dockerpoc
 ```
-You only want the image to be build and pushed if the tests succeeded, but in this POC there are no tests. in the code snipped below you can see how this would be set up. 
-where the workflow is triggered when the testworkflow is completed and only run the jobs if it succeeded.
+You only want the image to be built and pushed if the tests succeeded, but in this POC there are no tests. in the code snipped below you can see how this would be set up. 
+where the workflow is triggered when the test workflow is completed and only runs the jobs if it succeeded.
 ```yaml
 on:
   workflow_run:
@@ -78,5 +78,5 @@ jobs:
     runs-on: ubuntu-latest
     if: ${{ github.event.workflow_run.conclusion == 'success' }}
 ```
-in the image below you see the result image of the CD workflow.
+In the image below you see the result of the CD workflow.
 ![image](https://github.com/TotalTactician/Documentation/assets/81526735/9a553adf-2816-4a39-aada-27d603a42858)
