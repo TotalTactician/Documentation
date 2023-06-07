@@ -4,14 +4,14 @@
 - [Microservice test](#microservice-test)
 
 # Intro
-Unit testing is a vital tool to provide a clear picture of the functionality of the program, furthermore it is a critical way of verifing the customer's requirments.
+Unit testing is a vital tool to provide a clear picture of the functionality of the program, furthermore, it is a critical way of verifying the customer's requirements.
 
-For testing the NodeJS backend i used Mocha with chai, with Sinon for mocking.
+For testing the NodeJS backend I used Mocha with Chai, with Sinon for mocking.
 
 # Microservice test
-for a small microservice it is more important to test the endpoint than every piece of code, Because if the endpoint doesnt do what it must do, it isnt working right.
+for a small microservice it is more important to test the endpoint than every piece of code Because if the endpoint doesn't do what it must do, it isn't working right.
 
-In the Code below you can see a example of such a test. In this test we specify what we expect, in this case it should return a list of multiple races with 200 status code. Then in the test we first replace the real DAL with the testDAL so we dont use real data (more info below). After that we call the endpoint and first check if it has the right status code, after that we check if it has the right fields. If one of these checks fail, the test will fail.
+In the Code below you can see an example of such a test. In this test we specify what we expect, in this case, it should return a list of multiple races with status code 200. Then in the test, we first replace the real DAL with the testDAL so we don't use real data (more info below). After that, we call the endpoint and first check if it has the right status code, after that we check if it has the right fields. If one of these checks fails, the test will fail.
 ```ts
   beforeEach(() => {
     sandbox = sinon.createSandbox();
@@ -22,7 +22,7 @@ In the Code below you can see a example of such a test. In this test we specify 
     sandbox.restore();
   } )
   
-  // a test  
+  //A test  
   it('should return a list of multiple races with 200 status code', async () => {
     sandbox.stub(RaceDAL.prototype, 'getAllRaces').callsFake(async () => TestDAL.getAllRacesReturnList());
     // Make a request to the /GetAll endpoint
@@ -37,5 +37,5 @@ In the Code below you can see a example of such a test. In this test we specify 
     expect(res.body.Races).to.be.an('array');
   });
 ```
-Before each test it sets up a new mock environment with the new testdal, this is important so the tests dont use a real database and every test starts with a clean slate, And after each test the mock enviroment gets cleaned.
-This will insure each test has the same environment everytime and (if setup right) will give the same result after multiple runs.
+Before each test it sets up a new mock environment with the new testDAL, this is important so the tests don't use a real database and every test starts with a clean slate, And after each test, the mock environment gets cleaned.
+This will ensure each test has the same environment every time and (if set up right) will give the same result after multiple runs.
