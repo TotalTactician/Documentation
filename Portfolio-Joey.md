@@ -9,19 +9,19 @@ Thanks to [Erik Van de Laar](https://github.com/tick-github/tick-documentation) 
 - [Proof](#proof)
 
 ## Intro
-In this document I will provide you with the learning outcomes at time of writing (June 1, 2023) for this semester. 
-I did this project with [Sylvester Snijders](https://github.com/AsterosTheGreat) So this document has a table with the explanation of said outcomes and all of my work with which I proof I have accomplished them.
+In this document, I will provide you with the learning outcomes at the time of writing (June 1, 2023) for this semester. 
+I did this project with [Sylvester Snijders](https://github.com/AsterosTheGreat) So this document has a table with the explanation of said outcomes and all of my work with which I prove I have accomplished them.
 
 ## Learning outcomes
-For a complete list of the learning outcomes and their explanation as of June 1 2023, see [here](https://github.com/TotalTactician/Documentation/blob/main/learning-outcomes.md).
+For a complete list of the learning outcomes and their explanation as of June 1, 2023, see [here](https://github.com/TotalTactician/Documentation/blob/main/learning-outcomes.md).
 
 ## proof
 | explanation                     | Learing outcome                                                                           | Proof                                                                                        |                                   
 |---------------------------------|-------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------|
 | W.I.P | [Web Application ](https://github.com/TotalTactician/Documentation/blob/main/learning-outcomes.md#web-application) | [🔗](https://github.com/TotalTactician/Documentation/blob/main/Proof/Joey/Web%20Application.md) |
 | Unit tests in NodeJS microservice | [Software Quality](https://github.com/TotalTactician/Documentation/blob/main/learning-outcomes.md#web-application) | [🔗](https://github.com/TotalTactician/Documentation/blob/main/Proof/Joey/Software%20Quality.md) |
-| What is agile and how dit we use it in the group project | [Agile Methodology](https://github.com/TotalTactician/Documentation/blob/main/learning-outcomes.md#agile-methodology) | [🔗](https://github.com/TotalTactician/Documentation/blob/main/Proof/Joey/Agile%20Methodology.md) |
-| A implementation of CI on a Nodejs microservice with deploment to Dockerhub | [CI/CD](https://github.com/TotalTactician/Documentation/blob/main/learning-outcomes.md#cicd) | [🔗](https://github.com/TotalTactician/Documentation/blob/main/Proof/Joey/CI-CD.md) |
+| What is agile and how did we use it in the group project | [Agile Methodology](https://github.com/TotalTactician/Documentation/blob/main/learning-outcomes.md#agile-methodology) | [🔗](https://github.com/TotalTactician/Documentation/blob/main/Proof/Joey/Agile%20Methodology.md) |
+| A implementation of CI on a Nodejs microservice with deployment to Dockerhub | [CI/CD](https://github.com/TotalTactician/Documentation/blob/main/learning-outcomes.md#cicd) | [🔗](https://github.com/TotalTactician/Documentation/blob/main/Proof/Joey/CI-CD.md) |
 | W.I.P | [Cultural Differences and Ethics](https://github.com/TotalTactician/Documentation/blob/main/learning-outcomes.md#cultural-differences-and-ethics) | [🔗](https://github.com/TotalTactician/Documentation/blob/main/Proof/Joey/Cultural%20Differences%20and%20Ethics.md) |
 | W.I.P | [Requirements and Design](https://github.com/TotalTactician/Documentation/blob/main/learning-outcomes.md#requirements-and-design) | [🔗](https://github.com/TotalTactician/Documentation/blob/main/Proof/Joey/Requirements%20and%20Design.md) |
 | W.I.P | [Business Processes](https://github.com/TotalTactician/Documentation/blob/main/learning-outcomes.md#business-processes) | [🔗](https://github.com/TotalTactician/Documentation/blob/main/Proof/Joey/Business%20Processes.md) |
