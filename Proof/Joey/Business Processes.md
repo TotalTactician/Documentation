@@ -11,7 +11,7 @@ Remembering the ideal unit composition to counter specific enemy units can be qu
 
 In the diagram below you can see the way that the process would go in the use-case of our application.
  
-![BussinesProcess drawio](https://github.com/TotalTactician/Documentation/assets/39733159/999b2689-8518-4dad-8eb3-8234c6dcfe5d)
+![image](https://github.com/TotalTactician/Documentation/assets/81526735/96e9cbf3-308d-4c3c-ae28-2025ea976c81)
 
 ## Group project
 For the Business Processes of the group project, see[here](https://github.com/Null-Not-Found/DashBuddy-Documentation/blob/main/Learning%20Outcomes/Business%20processes.md).
