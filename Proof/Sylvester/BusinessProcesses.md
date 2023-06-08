@@ -12,4 +12,4 @@ However a good army isnt always effective, some opponents might be strong agains
 ## Business Process Diagram
 In the diagram below you can see the way that the process would go in the use-case of our application.
  
-![BussinesProcess drawio](https://github.com/TotalTactician/Documentation/assets/39733159/999b2689-8518-4dad-8eb3-8234c6dcfe5d)
+![image](https://github.com/TotalTactician/Documentation/assets/39733159/4bb44241-75d8-4ee9-9bf6-9cabde05b84f)
