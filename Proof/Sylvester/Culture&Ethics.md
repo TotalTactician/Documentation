@@ -2,6 +2,11 @@
 
 ## Table of Contents
 - [Intro](#intro)
+- [The Intersection of Ethics and Software Engineering](#the-intersection-of-ethics-and-software-engineering)
+- [Cultural Influences in Software Engineering](#cultural-influences-in-software-engineering)
+- [Key Ethical Considerations in Software Engineering](#key-ethical-considerations-in-software-engineering)
+- [Software Ethics in my own projects](#software-ethics-in-my-own-projects)
+- [Conclusion](#conclusion)
 
 ## Intro
 In today's rapidly advancing technological landscape, software engineering plays a crucial role in shaping various aspects of our lives. As software engineers develop innovative solutions, it becomes imperative to consider the ethical implications and cultural impact of their work. This document delves into the significance of ethics and culture in software engineering, highlighting the need for responsible and inclusive practices that prioritize the well-being of users and society at large.
