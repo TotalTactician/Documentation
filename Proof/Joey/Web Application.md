@@ -18,6 +18,10 @@ In the image below you can see the intended structure of our application. Due to
 
 ![TOT-Structure drawio](https://github.com/TotalTactician/Documentation/assets/81526735/1deceb44-022c-4448-8f54-b33faeda9785)
 
+In the image below you can see the initial design of the entities, this was then used as a start for the microsevice structure in general.
+
+![image](https://github.com/TotalTactician/Documentation/assets/81526735/d25a28d2-c47b-413b-8220-451378c6de5a)
+
 ## Frontend
 For choosing the framework for the front end we were thinking about using Vue or Svelte. We did some research and found that they are pretty similar
 
