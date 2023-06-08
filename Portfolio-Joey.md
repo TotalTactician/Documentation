@@ -72,17 +72,21 @@ The proficiency rating I will give myself are as they are described on [CANVAS](
   </tr>
   <tr>
     <th><strong>Proficiency Rating</strong></th>
-    <td> - </td>
+    <td> 3 - Proficient </td>
   </tr>
   <tr>
     <th><strong>Explanation</strong></th>
     <td>
-        <p>
-          -
-        </p>
-        <p>
-          In the group project we should have put a bigger focus on testing, we started a little late.
-        </p>
+      <p>
+        I have conducted tests on various microservices that require testing, employing mocking techniques to isolate the tests and ensure their reproducibility.
+      </p>
+      <p>
+        Before merging any code, it must successfully pass all tests and receive approval from another developer in the team through peer reviews. 
+        This holds true for both personal projects and group projects alike.
+      </p>
+      <p>
+        In our group project, it would have been advantageous to prioritize testing more prominently. Unfortunately, we initiated the testing process a bit later than ideal.
+      </p>
     </td>
   </tr>
 </table>
@@ -96,14 +100,20 @@ The proficiency rating I will give myself are as they are described on [CANVAS](
   </tr>
   <tr>
     <th><strong>Proficiency Rating</strong></th>
-    <td> - </td>
+    <td> 3 - Proficient </td>
   </tr>
   <tr>
     <th><strong>Explanation</strong></th>
     <td>
-        <p>
-          -
-        </p>
+      <p>
+        During every sprint, we conducted a sprint planning session to determine the tasks to be accomplished in the upcoming sprint. Additionally, at the end of each sprint, we held a retrospective to reflect upon the previous sprint.
+      </p>
+      <p>
+        We utilized tools like Jira to document user stories and manage our sprint board efficiently.
+      </p>
+      <p>
+        We conducted a form of refinement process to ensure that user stories were thoroughly developed. However, there is room for improvement in this aspect.
+      </p>
     </td>
   </tr>
 </table>
@@ -121,10 +131,13 @@ The proficiency rating I will give myself are as they are described on [CANVAS](
   </tr>
   <tr>
     <th><strong>Explanation</strong></th>
-    <td>
-        <p>
-          -
-        </p>
+    <td>     
+      <p>
+        I possess the knowledge and skills to establish CI/CD workflows within GitHub, ensuring their activation whenever applicable.
+      </p>
+      <p>
+        -
+      </p>
     </td>
   </tr>
 </table>
@@ -180,13 +193,13 @@ The proficiency rating I will give myself are as they are described on [CANVAS](
   </tr>
   <tr>
     <th><strong>Proficiency Rating</strong></th>
-    <td> - </td>
+    <td> 3 - Proficient </td>
   </tr>
   <tr>
     <th><strong>Explanation</strong></th>
     <td>
         <p>
-          -
+          See  <a href="https://github.com/TotalTactician/Documentation/blob/main/Proof/Joey/Business%20Processes.md">here</a> and  <a href="https://github.com/Null-Not-Found/DashBuddy-Documentation/blob/main/Learning%20Outcomes/Business%20processes.md">here</a>.
         </p>
     </td>
   </tr>
@@ -201,13 +214,14 @@ The proficiency rating I will give myself are as they are described on [CANVAS](
   </tr>
   <tr>
     <th><strong>Proficiency Rating</strong></th>
-    <td> - </td>
+    <td> 3 - Proficient </td>
   </tr>
   <tr>
     <th><strong>Explanation</strong></th>
     <td>
         <p>
-          -
+          I maintained a regular practice of seeking feedback from the teacher, typically at intervals of at least once every two weeks. This feedback was shared on Feedpulse, serving as a significant milestone to update the teacher about my progress and experiences. 
+          It served as an opportunity to demonstrate my proficiency and convince them of my readiness to proceed to the next semester.
         </p>
     </td>
   </tr>
