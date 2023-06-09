@@ -18,7 +18,7 @@ Thanks to [Erik Van de Laar](https://github.com/tick-github/tick-documentation) 
   - [Professional](#professional)
 
 ## Intro
-In this document, I will provide you with the learning outcomes at the time of writing (June 1, 2023) for this semester. 
+In this document, I will provide you with the learning outcomes at the time of writing (June 1st, 2023) for this semester. 
 I did this project with [Sylvester Snijders](https://github.com/AsterosTheGreat) So this document has a table with the explanation of said outcomes and all of my work with which I prove I have accomplished them.
 
 ## Learning outcomes
@@ -38,9 +38,9 @@ For a complete list of the learning outcomes and their explanation as of June 1,
 
 # Self-assessment
 
-Below, I will provide the reader with a self-assessment. In this assessment I will assess my own qualities, and explain how I think I quality for the given learning outcome (as they are laid out [here](dict/learning-outcomes.md)). 
+Below, I will provide the reader with a self-assessment. In this assessment I will assess my own qualities, and explain how I think I quality for the given learning outcome (as they are laid out [here](https://github.com/TotalTactician/Documentation/blob/main/learning-outcomes.md)). 
 
-The proficiency rating I will give myself are as they are described on [CANVAS](https://fhict.instructure.com/courses/12518/outcomes) on December 20th 2022. The rating goes from '*Undefined*', to '*Orienting*', to '*Beginning*', '*Proficient*' and finally to '*Advanced*', on a scale of 0 to 5.
+The proficiency rating I will give myself are as they are described on [CANVAS](https://fhict.instructure.com/courses/12993/outcomes) on June 9th 2023. The rating goes from '*Undefined*', to '*Orienting*', to '*Beginning*', '*Proficient*' and finally to '*Advanced*', on a scale of 0 to 5.
 
 ## Web Application
 
@@ -121,25 +121,25 @@ The proficiency rating I will give myself are as they are described on [CANVAS](
 ## CI/CD
 
 <table>
-  <tr>
-    <th><strong>Learning Outcome</strong></th>
-    <td>"You design and implement a (semi)automated software release process that matches the needs of the project context."</td>
-  </tr>
-  <tr>
-    <th><strong>Proficiency Rating</strong></th>
-    <td> - </td>
-  </tr>
-  <tr>
-    <th><strong>Explanation</strong></th>
-    <td>     
-      <p>
-        I possess the knowledge and skills to establish CI/CD workflows within GitHub, ensuring their activation whenever applicable.
-      </p>
-      <p>
-        -
-      </p>
-    </td>
-  </tr>
+<tr>
+  <th><strong>Learning Outcome</strong></th>
+  <td>"You design and implement a (semi)automated software release process that matches the needs of the project context."</td>
+</tr>
+<tr>
+  <th><strong>Proficiency Rating</strong></th>
+  <td> 3 - Proficient </td>
+</tr>
+<tr>
+  <th><strong>Explanation</strong></th>
+  <td>     
+    <p>
+      I possess the knowledge and skills to establish CI/CD workflows within GitHub, ensuring their activation whenever applicable.
+    </p>
+    <p>
+      -
+    </p>
+  </td>
+</tr>
 </table>
 
 ## Cultural Differences and Ethics
