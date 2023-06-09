@@ -2,6 +2,10 @@
 
 ## Table of Contents
 - [Intro](#intro)
+- [Application Architecture](#application-architecture)
+- [Front-end](#front-end)
+- [Back-end](#back-end)
+- [Communication between Front and Back](#communication-between-front-and-back)
 
 ## Intro
 During this project we setup a web application, whilst it is not done and not everything is implemented we have a clear vision of where we wanted to take this next. So some of the schemes are not yet fully implemented.
