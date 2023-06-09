@@ -16,6 +16,8 @@ In the scheme below you can see our architecture that we landed on after some ti
 ![image](https://github.com/TotalTactician/Documentation/assets/39733159/b90ef505-72a2-431a-ba11-ba2c3555b97d)
 
 ## Front-end
+The framework we used for our front-end is Svelte. We did some research into both Vue and Svelte and found they are pretty similar but Svelte has the ability to be used to create more reactive pages. 
+You can read our short research about the two [here](https://github.com/TotalTactician/Documentation/blob/main/Research/Frontend%20Research.md)
 
 ## Back-end
 
