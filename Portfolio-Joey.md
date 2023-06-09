@@ -18,8 +18,8 @@ Thanks to [Erik Van de Laar](https://github.com/tick-github/tick-documentation) 
   - [Professional](#professional)
 
 ## Intro
-In this document, I will provide you with the learning outcomes at the time of writing (June 1st, 2023) for this semester. 
-I did this project with [Sylvester Snijders](https://github.com/AsterosTheGreat) So this document has a table with the explanation of said outcomes and all of my work with which I prove I have accomplished them.
+Within this document, I aim to present the learning outcomes specific to the current semester as of June 1st, 2023. 
+I collaborated on this project with Sylvester Snijders, and you will find a table in this document containing explanations of these outcomes, along with comprehensive evidence of my work that demonstrates my successful attainment of each outcome.
 
 ## Learning outcomes
 For a complete list of the learning outcomes and their explanation as of June 1, 2023, see [here](https://github.com/TotalTactician/Documentation/blob/main/learning-outcomes.md).
