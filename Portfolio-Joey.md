@@ -51,7 +51,7 @@ The proficiency rating I will give myself are as they are described on [CANVAS](
   </tr>
   <tr>
     <th><strong>Proficiency Rating</strong></th>
-    <td> - </td>
+    <td> 3 - Proficient </td>
   </tr>
   <tr>
     <th><strong>Explanation</strong></th>
@@ -199,7 +199,7 @@ The proficiency rating I will give myself are as they are described on [CANVAS](
     <th><strong>Explanation</strong></th>
     <td>
         <p>
-          See  <a href="https://github.com/TotalTactician/Documentation/blob/main/Proof/Joey/Business%20Processes.md">here</a> and  <a href="https://github.com/Null-Not-Found/DashBuddy-Documentation/blob/main/Learning%20Outcomes/Business%20processes.md">here</a>.
+          See  <a href="https://github.com/TotalTactician/Documentation/blob/main/Proof/Joey/Business%20Processes.md">here</a> and  <a href="https://github.com/Null-Not-Found/DashBuddy-          Documentation/blob/main/Learning%20Outcomes/Business%20processes.md">here</a>.
         </p>
     </td>
   </tr>
@@ -219,10 +219,13 @@ The proficiency rating I will give myself are as they are described on [CANVAS](
   <tr>
     <th><strong>Explanation</strong></th>
     <td>
-        <p>
-          I maintained a regular practice of seeking feedback from the teacher, typically at intervals of at least once every two weeks. This feedback was shared on Feedpulse, serving as a significant milestone to update the teacher about my progress and experiences. 
-          It served as an opportunity to demonstrate my proficiency and convince them of my readiness to proceed to the next semester.
-        </p>
+      <p>
+        I maintained a regular practice of seeking feedback from the teacher, typically at intervals of at least once every two weeks. This feedback was shared on Feedpulse, serving as a significant milestone to update           the teacher about my progress and experiences. 
+        It served as an opportunity to demonstrate my proficiency and convince them of my readiness to proceed to the next semester.
+      </p>
+      <p>
+        In the group project, I assumed the role of the contact person, responsible for addressing any uncertainties or feedback needs within the group. Additionally, I took charge of organizing the retrospectives to ensure a systematic evaluation of our project progress. For more, see <a href="https://github.com/TotalTactician/Documentation/blob/main/Proof/Joey/Agile%20Methodology.md#retrospectives">here</a>
+      </p>    
     </td>
   </tr>
 </table>
