@@ -34,7 +34,7 @@ For a complete list of the learning outcomes and their explanation as of June 1,
 | A document of how we incorporated ethics into our project and what we noticed about cultural differences in the group | [Cultural Differences and Ethics](https://github.com/TotalTactician/Documentation/blob/main/learning-outcomes.md#cultural-differences-and-ethics) | [🔗](https://github.com/TotalTactician/Documentation/blob/main/Proof/Joey/Cultural%20Differences%20and%20Ethics.md) |
 | A short document about our design choices | [Requirements and Design](https://github.com/TotalTactician/Documentation/blob/main/learning-outcomes.md#requirements-and-design) | [🔗](https://github.com/TotalTactician/Documentation/blob/main/Proof/Joey/Requirements%20and%20Design.md) |
 | A document on the business processes of our own and the group project | [Business Processes](https://github.com/TotalTactician/Documentation/blob/main/learning-outcomes.md#business-processes) | [🔗](https://github.com/TotalTactician/Documentation/blob/main/Proof/Joey/Business%20Processes.md) |
-| small text on professionalism | [Professional](https://github.com/TotalTactician/Documentation/blob/main/learning-outcomes.md#professional) | [🔗](#professional) |
+| small text on professionalism | [Professional](https://github.com/TotalTactician/Documentation/blob/main/learning-outcomes.md#professional) | [Professional](#professional) |
 
 # Self-assessment
 
