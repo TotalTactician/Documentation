@@ -28,9 +28,10 @@ In reality, there have been some changes, but overall, the essence of the design
 ![image](https://github.com/TotalTactician/Documentation/assets/81526735/d25a28d2-c47b-413b-8220-451378c6de5a)
 
 ## Frontend
-For choosing the framework for the front end we were thinking about using Vue or Svelte. We did some research and found that they are pretty similar
+When considering the framework for the front end, we contemplated using either Vue or Svelte. After conducting thorough research, we discovered that they share several similarities. For detailed information, please refer to the full document available [here](https://github.com/TotalTactician/Documentation/blob/main/Research/Frontend%20Research.md).
 
-The full document can be found [here](https://github.com/TotalTactician/Documentation/blob/main/Research/Frontend%20Research.md).
+
+We have also created designs for the pages, and an example can be found [here](https://github.com/TotalTactician/Documentation/blob/main/Proof/Joey/Requirements%20and%20Design.md#personal-project).
 
 ## ORM
 Because we are using a Non-SQL Database we use an ODM (Object Data Manager) instead of an ORM. The only difference is that an ORM is used for relational databases like SQL and ODM is for document databases like MongoDB. 
