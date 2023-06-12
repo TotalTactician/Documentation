@@ -6,6 +6,7 @@
 - [Frontend](#frontend)
 - [ORM](#orm)
 - [Communication front - and back end](#communication-front---and-back-end)
+  - [Authentication](#authentication)
   - [REST versus GraphQL](#rest-versus-graphQL)
 
 ## Intro
@@ -42,6 +43,10 @@ In DAL is the call to the database and in Models is the schema for the Race mode
 
 ## Communication front - and back end
 For Our personal project, we used only REST APIs, but while working on the Data microservice for our group project we got recommended GraphQL.
+
+### Authentication
+Initially we postponed adding Authentication, due to time constraints and the fact that the APIs only return publicly available data.
+If we would have had time, we would implement JWT in our requests.
 
 ### REST versus GraphQL
 REST API (Representational State Transfer) is an architectural style that has been widely used for building web services. It follows a client-server model where clients make requests to specific endpoints on the server, and the server responds with the requested data. REST API relies on predefined endpoints and uses HTTP methods like GET, POST, PUT, and DELETE to perform CRUD (Create, Read, Update, Delete) operations on resources.
