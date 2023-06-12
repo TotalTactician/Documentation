@@ -34,7 +34,7 @@ For a complete list of the learning outcomes and their explanation as of June 1,
 | A document of how we incorporated ethics into our project and what we noticed about cultural differences in the group | [Cultural Differences and Ethics](https://github.com/TotalTactician/Documentation/blob/main/learning-outcomes.md#cultural-differences-and-ethics) | [🔗](https://github.com/TotalTactician/Documentation/blob/main/Proof/Joey/Cultural%20Differences%20and%20Ethics.md) |
 | A short document about our design choices | [Requirements and Design](https://github.com/TotalTactician/Documentation/blob/main/learning-outcomes.md#requirements-and-design) | [🔗](https://github.com/TotalTactician/Documentation/blob/main/Proof/Joey/Requirements%20and%20Design.md) |
 | A document on the business processes of our own and the group project | [Business Processes](https://github.com/TotalTactician/Documentation/blob/main/learning-outcomes.md#business-processes) | [🔗](https://github.com/TotalTactician/Documentation/blob/main/Proof/Joey/Business%20Processes.md) |
-| W.I.P | [Professional](https://github.com/TotalTactician/Documentation/blob/main/learning-outcomes.md#professional) | [🔗](https://github.com/TotalTactician/Documentation/blob/main/Proof/Joey/Professional.md) |
+| small text on professionalism | [Professional](https://github.com/TotalTactician/Documentation/blob/main/learning-outcomes.md#professional) | [🔗](https://github.com/TotalTactician/Documentation/edit/main/Portfolio-Joey.md#professional) |
 
 # Self-assessment
 
@@ -51,7 +51,7 @@ The proficiency rating I will give myself are as they are described on [CANVAS](
   </tr>
   <tr>
     <th><strong>Proficiency Rating</strong></th>
-    <td> 3 - Proficient </td>
+    <td> Proficient </td>
   </tr>
   <tr>
     <th><strong>Explanation</strong></th>
@@ -72,7 +72,7 @@ The proficiency rating I will give myself are as they are described on [CANVAS](
   </tr>
   <tr>
     <th><strong>Proficiency Rating</strong></th>
-    <td> 3 - Proficient </td>
+    <td> Proficient </td>
   </tr>
   <tr>
     <th><strong>Explanation</strong></th>
@@ -100,7 +100,7 @@ The proficiency rating I will give myself are as they are described on [CANVAS](
   </tr>
   <tr>
     <th><strong>Proficiency Rating</strong></th>
-    <td> 3 - Proficient </td>
+    <td> Proficient </td>
   </tr>
   <tr>
     <th><strong>Explanation</strong></th>
@@ -127,7 +127,7 @@ The proficiency rating I will give myself are as they are described on [CANVAS](
 </tr>
 <tr>
   <th><strong>Proficiency Rating</strong></th>
-  <td> 3 - Proficient </td>
+  <td> Proficient </td>
 </tr>
 <tr>
   <th><strong>Explanation</strong></th>
@@ -151,13 +151,13 @@ The proficiency rating I will give myself are as they are described on [CANVAS](
   </tr>
   <tr>
     <th><strong>Proficiency Rating</strong></th>
-    <td> - </td>
+    <td> Proficient </td>
   </tr>
   <tr>
     <th><strong>Explanation</strong></th>
     <td>
         <p>
-          -
+          
         </p>
     </td>
   </tr>
@@ -172,13 +172,16 @@ The proficiency rating I will give myself are as they are described on [CANVAS](
   </tr>
   <tr>
     <th><strong>Proficiency Rating</strong></th>
-    <td> - </td>
+    <td> Proficient </td>
   </tr>
   <tr>
     <th><strong>Explanation</strong></th>
     <td>
         <p>
-          -
+          Prior to commencing the project, we documented our program's intended objectives and the problem we aimed to address. 
+          Based on this information, we created a C4 diagram to visualize the system's architecture and components.
+          
+          C4 can be found <a href="https://github.com/TotalTactician/Documentation/blob/main/Proof/Joey/Web%20Application.md#application-structure">here</a>.
         </p>
     </td>
   </tr>
@@ -193,7 +196,7 @@ The proficiency rating I will give myself are as they are described on [CANVAS](
   </tr>
   <tr>
     <th><strong>Proficiency Rating</strong></th>
-    <td> 3 - Proficient </td>
+    <td> Proficient </td>
   </tr>
   <tr>
     <th><strong>Explanation</strong></th>
@@ -214,7 +217,7 @@ The proficiency rating I will give myself are as they are described on [CANVAS](
   </tr>
   <tr>
     <th><strong>Proficiency Rating</strong></th>
-    <td> 3 - Proficient </td>
+    <td> Proficient </td>
   </tr>
   <tr>
     <th><strong>Explanation</strong></th>
@@ -225,7 +228,7 @@ The proficiency rating I will give myself are as they are described on [CANVAS](
       </p>
       <p>
         In the group project, I assumed the role of the contact person, responsible for addressing any uncertainties or feedback needs within the group. Additionally, I took charge of organizing the retrospectives to ensure a systematic evaluation of our project progress. For more, see <a href="https://github.com/TotalTactician/Documentation/blob/main/Proof/Joey/Agile%20Methodology.md#retrospectives">here</a>
-      </p>    
+      </p>
     </td>
   </tr>
 </table>
