@@ -138,9 +138,6 @@ The proficiency rating I will give myself are as they are described on [CANVAS](
     <p>
       I possess the knowledge and skills to establish CI/CD workflows within GitHub, ensuring their activation whenever applicable.
     </p>
-    <p>
-      -
-    </p>
   </td>
 </tr>
 </table>
