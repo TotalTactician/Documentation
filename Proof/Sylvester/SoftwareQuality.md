@@ -2,6 +2,7 @@
 
 ## Table of Contents
 - [Intro](#intro)
+- [pytest Integration Test](#pytest-integration-test)
 
 ## Intro
 
