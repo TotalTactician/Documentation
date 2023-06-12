@@ -157,7 +157,7 @@ The proficiency rating I will give myself are as they are described on [CANVAS](
     <th><strong>Explanation</strong></th>
     <td>
         <p>
-          
+          See <a href="https://github.com/TotalTactician/Documentation/blob/main/Proof/Joey/Cultural%20Differences%20and%20Ethics.md">here</a>.
         </p>
     </td>
   </tr>
