@@ -24,7 +24,7 @@ I collaborated on this project with [Sylvester Snijders](https://github.com/Aste
 ## Learning outcomes
 For a complete list of the learning outcomes and their explanation as of June 1, 2023, see [here](https://github.com/TotalTactician/Documentation/blob/main/learning-outcomes.md).
 
-## proof
+## Proof
 | explanation                     | Learing outcome                                                                           | Proof                                                                                        |                                   
 |---------------------------------|-------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------|
 | The structure of our TotalTactitian application and explaining some choices | [Web Application ](https://github.com/TotalTactician/Documentation/blob/main/learning-outcomes.md#web-application) | [🔗](https://github.com/TotalTactician/Documentation/blob/main/Proof/Joey/Web%20Application.md) |
