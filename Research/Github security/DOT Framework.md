@@ -13,20 +13,28 @@
 ![50px-Logo-library](https://github.com/TotalTactician/Documentation/assets/81526735/439942aa-e2d4-4153-91bf-9c861bc359e4)
 <strong>Library research is done to explore what is already done and what guidelines and theories exist that could help you further your design. Since the advent of the internet library research is also called desk research.</strong>
 
-For this paper we 
+In this paper, we conducted library research by extensively examining documentation and implementations in other projects. This approach allowed us to gather valuable insights and leverage existing knowledge to inform our own work.
 
 ### Field
 ![50px-Logo-field](https://github.com/TotalTactician/Documentation/assets/81526735/f717bfc4-40af-42a3-ab9e-11ef6cf39457)
 <strong>Field research is done to explore the application context. You apply a field strategy to get to know your end users, their needs, desires and limitations as organizational and physical contexts in which they will use your product.</strong>
 
+In this paper, we relied solely on our own experiences and did not incorporate any field research.
+
 ### Lab
 ![50px-Logo-lab](https://github.com/TotalTactician/Documentation/assets/81526735/778fd286-609e-4cd2-b570-77175658fca2)
 <strong>Lab research is done to test parts or concepts of your product, of the final product. You use lab research to learn if things work out the way you intended them, or to test different scenarios.</strong>
+
+we did utilize lab research for our paper. We implemented various research findings in our own projects and explored different setups to determine the most suitable approach for our needs.
 
 ### Showroom
 ![50px-Logo-showroom](https://github.com/TotalTactician/Documentation/assets/81526735/53135e59-bd27-4a9d-b459-fb0e3bbe2868)
 <strong>Showroom research is done to test your ideas in relation to existing work. Showing your prototype to experts can be a form of showroom research or spelling out how your product is different from the competition. Also testing your product to general guidelines is a form of showroom research.</strong>
 
+We have conducted Showroom Research by publishing our work on GitHub. (Ask Leon)
+
 ### Workshop
 ![50px-Logo-workshop](https://github.com/TotalTactician/Documentation/assets/81526735/639898df-bb47-4602-9e8c-9e17322e0d68)
 <strong>Workshop research is done to explore opportunities. Prototyping, designing and co-creation activities are all ways to gain insights in what is possible and how things could work.</strong>
+
+we did utilize lab research for our paper. We implemented various research findings in our own projects and explored different setups to determine the most suitable approach for our needs.
