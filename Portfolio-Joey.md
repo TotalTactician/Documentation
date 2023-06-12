@@ -56,9 +56,12 @@ The proficiency rating I will give myself are as they are described on [CANVAS](
   <tr>
     <th><strong>Explanation</strong></th>
     <td>
-        <p>
-          -
-        </p>
+      <p>
+        I  designed and developed a full-stack application, utilizing a Svelte frontend and primarily implementing microservices in TypeScript with Express.
+      </p>
+      <p>
+        The Race Microservice is responsible for reading from and writing to a MongoDB document store using Mongoose, an ORM for MongoDB. The data is stored in a MongoDB Docker container.
+      </p>
     </td>
   </tr>
 </table>
@@ -180,7 +183,6 @@ The proficiency rating I will give myself are as they are described on [CANVAS](
         <p>
           Prior to commencing the project, we documented our program's intended objectives and the problem we aimed to address. 
           Based on this information, we created a C4 diagram to visualize the system's architecture and components.
-          
           C4 can be found <a href="https://github.com/TotalTactician/Documentation/blob/main/Proof/Joey/Web%20Application.md#application-structure">here</a>.
         </p>
     </td>
