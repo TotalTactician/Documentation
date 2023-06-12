@@ -37,7 +37,7 @@ Software engineers should strive to make their products accessible to individual
 Software development processes should consider minimizing the carbon footprint, promoting energy efficiency, and sustainable practices to reduce the environmental impact.
 
 ## Software Ethics in my own projects
-
+One of the possible concerns is the lack of security on our APIs. This is not a major concern to us since we do not handle user data. If we were to make user accounts and store certain user data we would have to implement a system that protects the APIs and the connection between the client and website to ensure we comply with the GDPR.
 
 ## Conclusion
 
