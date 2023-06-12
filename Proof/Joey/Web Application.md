@@ -12,13 +12,18 @@
 In this document, I will explain the structure of our TotalTactitian application and our choices behind them.
 
 ## Application structure
-We decided to use a microservice structure because we didn't use that yet and wanted to learn that. At the start, we thought about writing every microservice in a different language but decided that it would create extra complications, so we decided for the most part on Typescript with Express because the Svelte frontend also uses Typescript.
+We decided to use a microservice structure because we didn't use that yet and wanted to learn that. 
+At the start, we thought about writing every microservice in a different language but decided that it would create extra complications, 
+so we decided for the most part on Typescript with Express because the Svelte frontend also uses Typescript.
 
-In the image below you can see the intended structure of our application. Due to time constraints, we have not implemented the DNS and Gateway.
+In the image below you can see the intended structure of our application. Due to time constraints, we have not implemented the DNS and Gateway. 
+The task should be relatively quick to complete since we have previously dealt with similar issues during the group project. 
+However, during that time, we had other pressing matters that took precedence in terms of priority.
 
 ![TOT-Structure drawio](https://github.com/TotalTactician/Documentation/assets/81526735/1deceb44-022c-4448-8f54-b33faeda9785)
 
-In the image below you can see the initial design of the entities, this was then used as a start for the microsevice structure in general.
+In the image below you can see the initial design of the entities, this was then used as a start for the microsevice structure in general. 
+In reality, there have been some changes, but overall, the essence of the design has remained largely consistent.
 
 ![image](https://github.com/TotalTactician/Documentation/assets/81526735/d25a28d2-c47b-413b-8220-451378c6de5a)
 
