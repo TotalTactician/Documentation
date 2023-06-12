@@ -199,7 +199,7 @@ The proficiency rating I will give myself are as they are described on [CANVAS](
     <th><strong>Explanation</strong></th>
     <td>
         <p>
-          See  <a href="https://github.com/TotalTactician/Documentation/blob/main/Proof/Joey/Business%20Processes.md">here</a> and  <a href="https://github.com/Null-Not-Found/DashBuddy-          Documentation/blob/main/Learning%20Outcomes/Business%20processes.md">here</a>.
+          See  <a href="https://github.com/TotalTactician/Documentation/blob/main/Proof/Joey/Business%20Processes.md">here</a> and  <a href="https://github.com/Null-Not-Found/DashBuddy-Documentation/blob/main/Learning%20Outcomes/Business%20processes.md">here</a>.
         </p>
     </td>
   </tr>
