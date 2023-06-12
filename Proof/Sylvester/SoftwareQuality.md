@@ -8,7 +8,7 @@
 
 ## pytest Integration Test
 
-```
+```python
 def test_getUnit(app, mocker):
 
     # Define a sample unit
