@@ -14,4 +14,4 @@ In the diagram below you can see the way that the process would go in the use-ca
 ![image](https://github.com/TotalTactician/Documentation/assets/81526735/96e9cbf3-308d-4c3c-ae28-2025ea976c81)
 
 ## Group project
-For the Business Processes of the group project, see[here](https://github.com/Null-Not-Found/DashBuddy-Documentation/blob/main/Learning%20Outcomes/Business%20processes.md).
+For the Business Processes of the group project, see [here](https://github.com/Null-Not-Found/DashBuddy-Documentation/blob/main/Learning%20Outcomes/Business%20processes.md).
