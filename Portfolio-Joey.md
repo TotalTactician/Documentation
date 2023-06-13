@@ -228,6 +228,12 @@ The proficiency rating I will give myself are as they are described on [CANVAS](
       <p>
         In the group project, I assumed the role of the contact person, responsible for addressing any uncertainties or feedback needs within the group. Additionally, I took charge of organizing the retrospectives to ensure a systematic evaluation of our project progress. For more, see <a href="https://github.com/TotalTactician/Documentation/blob/main/Proof/Joey/Agile%20Methodology.md#retrospectives">here</a>
       </p>
+      <p>
+        We had a user story that was implemented by <a href="https://github.com/BramVerkuijlen">Bram</a>, and we received feedback from him: "The task was easy to read, and the subtasks were small enough to work on easily. However, I missed acceptance criteria for what should happen if something goes wrong (such as what to do if no units are returned). It would also be helpful to have information about what the API call returns or a link to the documentation for the call (if the API call is needed, of course)."
+      </p>
+      <p>
+        We had a user story that was implemented by <a href="https://github.com/Spider-Frog">Stijn</a>, and we received feedback from him: ""
+      </p>
     </td>
   </tr>
 </table>
