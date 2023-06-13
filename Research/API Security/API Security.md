@@ -55,6 +55,17 @@ Source: Conversation with Bing, 13/06/2023
 
 ## Record APIs in an API registry
 
+Recording APIs in an API registry is a useful way to make an API safer. An API registry is a centralized repository that stores information about all the APIs that are in use or in development within an organization. An API registry can include details such as the name, purpose, payload, usage, access, live date, retired date and owner of each API²³.
+
+Recording APIs in an API registry helps to keep track of the APIs and their characteristics, which can prevent duplication, confusion, or inconsistency. It can also help to identify and manage the dependencies and relationships between different APIs, which can improve performance and reliability¹.
+
+Recording APIs in an API registry also helps to secure the APIs by providing visibility and accountability. It can help to enforce access policies and monitor API usage and activity. It can also help to meet compliance and audit standards by logging who accessed the API, what actions were performed, and when. In case of a security incident, it can also help with forensic analysis and remediation²³.
+
+Source: Conversation with Bing, 13/06/2023
+(1) 12 API security best practices to protect your business. https://www.techtarget.com/searchapparchitecture/tip/10-API-security-guidelines-and-best-practices.
+(2) What is API Security? Best Practices To Protect Your Business. https://greenmethod.net/what-is-api-security-best-practices-to-protect-your-business/.
+(3) The API Registry API | Google Open Source Blog. https://opensource.googleblog.com/2021/01/the-api-registry-api.html.
+
 Share only necessary information. 
 
 
