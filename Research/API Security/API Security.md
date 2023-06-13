@@ -49,9 +49,9 @@ Another method to encrypt requests and responses is using a symmetric encryption
 By encrypting requests and responses, an API can ensure that only legitimate and authorized parties can access its data and functionality, thus reducing the risk of data breaches, identity theft, or abuse of the API²³.
 
 Source: Conversation with Bing, 13/06/2023
-(1) Best practices for REST API security ... - Stack Overflow Blog. https://stackoverflow.blog/2021/10/06/best-practices-for-authentication-and-authorization-for-rest-apis/.
-(2) 12 API security best practices to protect your business. https://www.techtarget.com/searchapparchitecture/tip/10-API-security-guidelines-and-best-practices.
-(3) How to Encrypt WEB API request and response using PyCryptodome. https://learn.microsoft.com/en-us/answers/questions/1167267/how-to-encrypt-web-api-request-and-response-using.
+- (1) Best practices for REST API security ... - Stack Overflow Blog. https://stackoverflow.blog/2021/10/06/best-practices-for-authentication-and-authorization-for-rest-apis/.
+- (2) 12 API security best practices to protect your business. https://www.techtarget.com/searchapparchitecture/tip/10-API-security-guidelines-and-best-practices.
+- (3) How to Encrypt WEB API request and response using PyCryptodome. https://learn.microsoft.com/en-us/answers/questions/1167267/how-to-encrypt-web-api-request-and-response-using.
 
 ## Record APIs in an API registry
 
@@ -62,9 +62,9 @@ Recording APIs in an API registry helps to keep track of the APIs and their char
 Recording APIs in an API registry also helps to secure the APIs by providing visibility and accountability. It can help to enforce access policies and monitor API usage and activity. It can also help to meet compliance and audit standards by logging who accessed the API, what actions were performed, and when. In case of a security incident, it can also help with forensic analysis and remediation²³.
 
 Source: Conversation with Bing, 13/06/2023
-(1) 12 API security best practices to protect your business. https://www.techtarget.com/searchapparchitecture/tip/10-API-security-guidelines-and-best-practices.
-(2) What is API Security? Best Practices To Protect Your Business. https://greenmethod.net/what-is-api-security-best-practices-to-protect-your-business/.
-(3) The API Registry API | Google Open Source Blog. https://opensource.googleblog.com/2021/01/the-api-registry-api.html.
+- (1) 12 API security best practices to protect your business. https://www.techtarget.com/searchapparchitecture/tip/10-API-security-guidelines-and-best-practices.
+- (2) What is API Security? Best Practices To Protect Your Business. https://greenmethod.net/what-is-api-security-best-practices-to-protect-your-business/.
+- (3) The API Registry API | Google Open Source Blog. https://opensource.googleblog.com/2021/01/the-api-registry-api.html.
 
 Share only necessary information. 
 
