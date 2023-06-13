@@ -24,13 +24,13 @@ For the Prediciton of the grade:
  - 3 - Proficient
  - 5 - Advanced
 
-| Learning Outcome | Proof Document | Personal Prediciton Grade | Reasoning |
-| ---------------- | -------------- | ------------------------- | --------- |
-| Agile Methodology | [Proof](https://github.com/TotalTactician/Documentation/blob/main/Proof/Sylvester/AgileMethod.md), [Proof 2](https://github.com/Null-Not-Found/DashBuddy-Documentation/blob/main/Learning%20Outcomes/Agile%20Method.md)| 3 | I think I am at a proficient level due to the fact that your mom | 
-| Business Processes | [Proof](https://github.com/TotalTactician/Documentation/blob/main/Proof/Sylvester/BusinessProcesses.md), [Proof 2](https://github.com/Null-Not-Found/DashBuddy-Documentation/blob/main/Learning%20Outcomes/Business%20processes.md) | 3 |  | 
-| CI/CD | [Proof](https://github.com/TotalTactician/Documentation/blob/main/Proof/Sylvester/CI-CD.md) | 3 |  | 
-| Cultural Differences and Ethics | [Proof](https://github.com/TotalTactician/Documentation/blob/main/Proof/Sylvester/Culture%26Ethics.md), [Proof 2](https://github.com/Null-Not-Found/DashBuddy-Documentation/blob/main/Learning%20Outcomes/Cultural%20differences%20and%20ethics.md) | 3 |  | 
-| Professional | [Proof](https://github.com/Null-Not-Found) | 3 |  | 
-| Requirements and Design | [Proof](https://github.com/TotalTactician/Documentation/blob/main/Proof/Sylvester/Requirements%26Design.md), [Proof 2](https://github.com/Null-Not-Found/DashBuddy-Documentation/blob/main/Learning%20Outcomes/Requirements%20and%20design.md) | 3 |  | 
-| Software Quality | [Proof](https://github.com/TotalTactician/Documentation/blob/main/Proof/Sylvester/SoftwareQuality.md) | 3 |  | 
-| Web Application | [Proof](https://github.com/TotalTactician/Documentation/blob/main/Proof/Sylvester/WebApplication.md) | 3 |  |
+| Learning Outcome | Proof Document | Personal Prediciton Grade |
+| ---------------- | -------------- | ------------------------- |
+| Agile Methodology | [Proof](https://github.com/TotalTactician/Documentation/blob/main/Proof/Sylvester/AgileMethod.md), [Proof 2](https://github.com/Null-Not-Found/DashBuddy-Documentation/blob/main/Learning%20Outcomes/Agile%20Method.md)| 3 |
+| Business Processes | [Proof](https://github.com/TotalTactician/Documentation/blob/main/Proof/Sylvester/BusinessProcesses.md), [Proof 2](https://github.com/Null-Not-Found/DashBuddy-Documentation/blob/main/Learning%20Outcomes/Business%20processes.md) | 3 |
+| CI/CD | [Proof](https://github.com/TotalTactician/Documentation/blob/main/Proof/Sylvester/CI-CD.md) | 3 |
+| Cultural Differences and Ethics | [Proof](https://github.com/TotalTactician/Documentation/blob/main/Proof/Sylvester/Culture%26Ethics.md), [Proof 2](https://github.com/Null-Not-Found/DashBuddy-Documentation/blob/main/Learning%20Outcomes/Cultural%20differences%20and%20ethics.md) | 3 |
+| Professional | [Proof](https://github.com/Null-Not-Found) | 3 |
+| Requirements and Design | [Proof](https://github.com/TotalTactician/Documentation/blob/main/Proof/Sylvester/Requirements%26Design.md), [Proof 2](https://github.com/Null-Not-Found/DashBuddy-Documentation/blob/main/Learning%20Outcomes/Requirements%20and%20design.md) | 3 |
+| Software Quality | [Proof](https://github.com/TotalTactician/Documentation/blob/main/Proof/Sylvester/SoftwareQuality.md) | 3 |
+| Web Application | [Proof](https://github.com/TotalTactician/Documentation/blob/main/Proof/Sylvester/WebApplication.md) | 3 |
