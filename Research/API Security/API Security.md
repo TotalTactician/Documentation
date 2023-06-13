@@ -5,6 +5,7 @@
   - [Implement access control](#implement-access-control)
   - [Encrypt requests and responses](#encrypt-requests-and-responses)
   - [Record APIs in an API registry](#record-apis-in-an-api-registry)
+  - [Conclusion](#conclusion)
 
 ## Authenticate and authorize
 Authentication and authorization are two important aspects of making an API safer. Authentication is the process of verifying the identity of a user or an app that wants to access the API, while authorization is the process of determining what level of access they have to the API resources¹.
@@ -66,6 +67,7 @@ Source: Conversation with Bing, 13/06/2023
 - (2) What is API Security? Best Practices To Protect Your Business. https://greenmethod.net/what-is-api-security-best-practices-to-protect-your-business/.
 - (3) The API Registry API | Google Open Source Blog. https://opensource.googleblog.com/2021/01/the-api-registry-api.html.
 
-Share only necessary information. 
-
+## Conclusion
+In conclusion, implementing authentication and authorization, access control, encrypting requests and responses, and recording APIs in an API registry are crucial steps to enhance the security of an API.
+By incorporating these security practices, an API can mitigate the risk of data breaches and unauthorized API usage, instilling confidence in its users and maintaining the integrity of the system.
 
