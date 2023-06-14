@@ -31,7 +31,7 @@ we did utilize lab research for our paper. We implemented various research findi
 ![50px-Logo-showroom](https://github.com/TotalTactician/Documentation/assets/81526735/53135e59-bd27-4a9d-b459-fb0e3bbe2868)
 <strong>Showroom research is done to test your ideas in relation to existing work. Showing your prototype to experts can be a form of showroom research or spelling out how your product is different from the competition. Also testing your product to general guidelines is a form of showroom research.</strong>
 
-We have conducted Showroom Research by publishing our work on GitHub. (Ask Leon)
+We have conducted Showroom Research by publishing our work on GitHub.
 
 ### Workshop
 ![50px-Logo-workshop](https://github.com/TotalTactician/Documentation/assets/81526735/639898df-bb47-4602-9e8c-9e17322e0d68)
