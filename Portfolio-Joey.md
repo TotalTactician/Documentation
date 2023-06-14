@@ -1,7 +1,7 @@
 # Portfolio of Joey
 ![skaven-cheiften](https://github.com/TotalTactician/Documentation/assets/81526735/3a668864-4463-4775-950d-6764ee7156d6)
 
-Thanks to [Erik Van de Laar](https://github.com/tick-github/tick-documentation) for the inspiration on how to set up this document.
+Thanks to [Erik Van de Laar](https://github.com/code-syl) for the inspiration on how to set up this document.
 
 ## Table of Contents
 - [Intro](#intro)
