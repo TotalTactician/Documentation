@@ -38,16 +38,16 @@ For a complete list of the learning outcomes and their explanation as of June 1,
 
 # Self-assessment
 
-Below, I will provide the reader with a self-assessment. In this assessment I will assess my own qualities, and explain how I think I quality for the given learning outcome (as they are laid out [here](https://github.com/TotalTactician/Documentation/blob/main/learning-outcomes.md)). 
+Below, I will provide the reader with a self-assessment. In this assessment, I will assess my own qualities, and explain how I think I qualify for the given learning outcome (as they are laid out [here](https://github.com/TotalTactician/Documentation/blob/main/learning-outcomes.md)). 
 
-The proficiency rating I will give myself are as they are described on [CANVAS](https://fhict.instructure.com/courses/12993/outcomes) on June 9th 2023. The rating goes from '*Undefined*', to '*Orienting*', to '*Beginning*', '*Proficient*' and finally to '*Advanced*', on a scale of 0 to 5.
+The proficiency ratings I will give myself are as they are described on [CANVAS](https://fhict.instructure.com/courses/12993/outcomes) on June 9th, 2023. The rating goes from '*Undefined*', to '*Orienting*', to '*Beginning*', '*Proficient*', and finally to '*Advanced*', on a scale of 0 to 5.
 
 ## Web Application
 
 <table>
   <tr>
     <th><strong>Learning Outcome</strong></th>
-    <td>"You desgin and build user-friendly, full-stack web applications."</td>
+    <td>"You design and build user-friendly, full-stack web applications."</td>
   </tr>
   <tr>
     <th><strong>Proficiency Rating</strong></th>
@@ -116,6 +116,9 @@ The proficiency rating I will give myself are as they are described on [CANVAS](
       </p>
       <p>
         We conducted a form of refinement process to ensure that user stories were thoroughly developed. However, there is room for improvement in this aspect.
+      </p>
+      <p>
+        As part of our assignment, we were tasked with outsourcing a user story to another student and, in return, implementing a user story from a different student. See <a href="https://github.com/TotalTactician/Documentation/blob/main/Proof/Joey/Agile%20Methodology.md#outsourcing">here</a>
       </p>
     </td>
   </tr>
@@ -227,12 +230,6 @@ The proficiency rating I will give myself are as they are described on [CANVAS](
       </p>
       <p>
         In the group project, I assumed the role of the contact person, responsible for addressing any uncertainties or feedback needs within the group. Additionally, I took charge of organizing the retrospectives to ensure a systematic evaluation of our project progress. For more, see <a href="https://github.com/TotalTactician/Documentation/blob/main/Proof/Joey/Agile%20Methodology.md#retrospectives">here</a>
-      </p>
-      <p>
-        We had a user story that was implemented by <a href="https://github.com/BramVerkuijlen">Bram</a>, and we received feedback from him: "The task was easy to read, and the subtasks were small enough to work on easily. However, I missed acceptance criteria for what should happen if something goes wrong (such as what to do if no units are returned). It would also be helpful to have information about what the API call returns or a link to the documentation for the call (if the API call is needed, of course)."
-      </p>
-      <p>
-        We had a user story that was implemented by <a href="https://github.com/Spider-Frog">Stijn</a>, and we received feedback from him: ""
       </p>
     </td>
   </tr>
