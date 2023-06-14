@@ -65,8 +65,12 @@ For tasks, we use a more specific way to describe the technical criteria.
 ## Outsourcing
 As part of our assignment, we were tasked with outsourcing a user story to another student and, in return, implementing a user story from a different student. Since Sylvester and I collaborated as a team, we had the responsibility of outsourcing two user stories.
 
-We had a user story that was implemented by [Bram](https://github.com/BramVerkuijlen), and we received feedback from him: "The task was easy to read, and the subtasks were small enough to work on easily. However, I missed acceptance criteria for what should happen if something goes wrong (such as what to do if no units are returned). It would also be helpful to have information about what the API call returns or a link to the documentation for the call (if the API call is needed, of course)."
+We had a user story that was implemented by [Bram](https://github.com/BramVerkuijlen), and we received feedback from him: 
+<br>
+"The task was easy to read, and the subtasks were small enough to work on easily. However, I missed acceptance criteria for what should happen if something goes wrong (such as what to do if no units are returned). It would also be helpful to have information about what the API call returns or a link to the documentation for the call (if the API call is needed, of course)."
 
 We had a user story that was implemented by [Stijn](https://github.com/Spider-Frog), but we haven't received any feedback yet.
 
-I implemented a user story from [Artjoms](https://github.com/Otrigos) project, and here is the feedback I provided to him: "The user story was relatively small, which made it suitable for outsourcing. It was well-defined, but the associated tasks were somewhat unclear. One of the tasks had already been completed, while the remaining two required clarification. However, after a brief talk with Artjoms, the tasks were clarified. Initiating and running the project was a straightforward process. The only minor challenge encountered was setting up the database, but Artjoms provided instructions, and it was successfully configured within approximately two minutes. The code was clean, well-structured, and easy to work with."
+I implemented a user story from [Artjoms](https://github.com/Otrigos) project, and here is the feedback I provided to him: 
+<br>
+"The user story was relatively small, which made it suitable for outsourcing. It was well-defined, but the associated tasks were somewhat unclear. One of the tasks had already been completed, while the remaining two required clarification. However, after a brief talk with Artjoms, the tasks were clarified. Initiating and running the project was a straightforward process. The only minor challenge encountered was setting up the database, but Artjoms provided instructions, and it was successfully configured within approximately two minutes. The code was clean, well-structured, and easy to work with."
