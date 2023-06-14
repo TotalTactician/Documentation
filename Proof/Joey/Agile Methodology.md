@@ -7,6 +7,7 @@
   - [Retrospectives](#retrospectives)
   - [Sprint board](#sprint-board)
   - [User-stories](#user-stories)
+- [Outsourcing](#outsourcing)
 
 ## Intro
 Working with Agile/Scrum is an adaptive and collaborative approach to project management that prioritizes iterative development, customer feedback, and cross-functional teamwork. 
@@ -27,7 +28,7 @@ It promotes self-organization, adaptive planning, and a focus on delivering valu
 
 ## Agile in the group project
 For our group project, we decided to use Jira for our backlog and sprint board, we also thought about using Trello or Githhub Projects but felt that Jira was more useful and clearer.
-It is also easy to connect it to GitHub for tracking a branch associated with an issue.
+It is also easy to connect it to GitHub to track an issue's associated branch.
 
 For this project, we followed sprints of 3 weeks where before each sprint we look at the backlog and decide what to do next, and after every sprint, we had a retrospective.
 
@@ -36,7 +37,7 @@ For the retrospectives, we Used the 4 Ls method where we ask ourselves these 4 q
 - What did we like about this sprint?
 - What did we learn this sprint?
 - what did we lack this sprint?
-- what do we long for in the next sprints?
+- what do we long for in the following sprints?
 
 ![image](https://github.com/TotalTactician/Documentation/assets/81526735/e103a8bf-5ff3-4a97-85fc-661ec60ba7ba)
 
@@ -60,3 +61,10 @@ For the acceptance criteria, we used the given when then method. With this metho
 
 For tasks, we use a more specific way to describe the technical criteria.
 ![image](https://github.com/TotalTactician/Documentation/assets/81526735/7ee56ff7-e417-4632-857b-6142b5e76aca)
+
+## Outsourcing
+One 
+
+We had a user story that was implemented by [Bram](https://github.com/BramVerkuijlen), and we received feedback from him: "The task was easy to read, and the subtasks were small enough to work on easily. However, I missed acceptance criteria for what should happen if something goes wrong (such as what to do if no units are returned). It would also be helpful to have information about what the API call returns or a link to the documentation for the call (if the API call is needed, of course)."
+
+We had a user story that was implemented by [Stijn](https://github.com/Spider-Frog), but we haven't received any feedback yet.
